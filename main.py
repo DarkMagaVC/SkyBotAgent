@@ -45,8 +45,6 @@ DB_USER = os.getenv("DB_USER")
 
 LIST_IDS = [
     "1699672111399199163",  # Business
-    "1699671863658476026",  # AI
-    "1698378628877234528"  # Crypto
 ]
 
 class Tweet:
