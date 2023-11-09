@@ -7,7 +7,7 @@ from friend.contract import Contract
 from datetime import datetime
 
 class Program:
-    def __init__(self, twitter=None, USER_ADDRESS="0x8abCd876d0398285F9C2B2f9fE1d0Ef40e1af0B1", CONTRACT_ADDRESS="0xCF205808Ed36593aa40a44F10c7f7C2F67d4A4d4", BASE_MAINNET="https://developer-access-mainnet.base.org/", privateKey=None):
+    def __init__(self, twitter=None, USER_ADDRESS="XXXX", CONTRACT_ADDRESS="0xCF205808Ed36593aa40a44F10c7f7C2F67d4A4d4", BASE_MAINNET="https://developer-access-mainnet.base.org/", privateKey=None):
         self.USER_ADDRESS = USER_ADDRESS
         self.CONTRACT_ADDRESS = CONTRACT_ADDRESS
         self.BASE_MAINNET = BASE_MAINNET
