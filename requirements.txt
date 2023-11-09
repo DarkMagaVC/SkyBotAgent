@@ -1,0 +1,10 @@
+tweepy
+python-dotenv
+openai
+black
+numpy
+psycopg2-binary
+pytz
+friendtech
+web3
+schedule
